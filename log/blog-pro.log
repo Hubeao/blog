@@ -1,0 +1,9 @@
+2019-12-12 17:19:19.678  INFO 10696 --- [main] com.hubeao.BlogApplication               : Starting BlogApplication on PC-20190521NMLX with PID 10696 (C:\Users\Administrator\IdeaProjects\blog\target\classes started by Administrator in C:\Users\Administrator\IdeaProjects\blog)
+2019-12-12 17:19:19.683  INFO 10696 --- [main] com.hubeao.BlogApplication               : The following profiles are active: pro
+2019-12-12 17:19:21.819  WARN 10696 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.hubeao]' package. Please check your configuration.
+2019-12-12 17:19:24.255  WARN 10696 --- [main] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2019-12-12 17:19:24.816  INFO 10696 --- [main] com.hubeao.BlogApplication               : Started BlogApplication in 6.204 seconds (JVM running for 7.11)
+2019-12-12 17:34:04.473  INFO 8064 --- [main] com.hubeao.BlogApplication               : Starting BlogApplication on PC-20190521NMLX with PID 8064 (C:\Users\Administrator\IdeaProjects\blog\target\classes started by Administrator in C:\Users\Administrator\IdeaProjects\blog)
+2019-12-12 17:34:04.477  INFO 8064 --- [main] com.hubeao.BlogApplication               : The following profiles are active: pro
+2019-12-12 17:34:06.167  WARN 8064 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.hubeao]' package. Please check your configuration.
+2019-12-12 17:34:09.713  INFO 8064 --- [main] com.hubeao.BlogApplication               : Started BlogApplication in 7.532 seconds (JVM running for 8.4)
