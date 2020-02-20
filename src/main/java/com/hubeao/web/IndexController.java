@@ -10,5 +10,6 @@ public class IndexController {
         int i=9/0;
         return "index";
     }
-//    123456789
+//    成功提交项目到github教程
+//    https://blog.csdn.net/u014135752/article/details/79951802
 }
